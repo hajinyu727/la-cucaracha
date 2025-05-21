@@ -82,11 +82,10 @@
   </style>
 </head>
 <body>
-  <div class="background-title">LA CUCARACHA</div>
   <div class="container">
     <!-- 다국어 선택 페이지 -->
     <div id="languagePage" class="page active">
-      <h2>언어를 선택하세요</h2>
+      언어를 선택하세요
       <div class="button-grid" id="languageButtons">
         <button onclick="goToMenuPage('English')">English</button>
         <button onclick="goToMenuPage('Chinese')">中文</button>
