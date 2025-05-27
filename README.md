@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -77,7 +77,7 @@
   </style>
 </head>
 <body>
-  <header>LA CUCARACHA</header>
+
 
   <!-- Language Selection Page -->
   <div id="page-language" class="container">
